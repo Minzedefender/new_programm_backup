@@ -1,0 +1,18 @@
+{
+  "Bases": [
+    {
+      "Name": "DemoBase",
+      "DatabasePath": "C:\\1C\\Bases\\DemoBase",
+      "DesignerPath": "C:\\Program Files\\1cv8\\8.3.x\\bin\\1cv8.exe",
+      "BackupDirectory": "D:\\Backups\\1C\\DemoBase",
+      "RetentionDays": 7,
+      "UserSecret": "DEMOBASE_USER",
+      "PasswordSecret": "DEMOBASE_PASSWORD",
+      "Upload": {
+        "Enabled": true,
+        "RemoteDirectory": "/Backups/1C/DemoBase",
+        "TokenSecret": "YANDEX_TOKEN_DEMOBASE"
+      }
+    }
+  ]
+}
